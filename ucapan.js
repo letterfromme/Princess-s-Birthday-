@@ -1,28 +1,24 @@
 document.addEventListener("DOMContentLoaded", () => {
-const message = `ASSALAMUALAIKUM WAHAI SAUDARI ZULAIKHA,
+const message = `Assalamualaikum babyyy ❤️
 
-Alhamdulillah, syukur atas nikmat kurniaan Tuhan. Di kala hidup mendatangkan seribu satu keperitan dan dugaan, saudari tetap teguh berdiri, dan akhirnya tiba di hari yang dinanti penuh makna ini.
+Selamat hari lahir untuk my one and only, Nur Syahira Syazlynnda, my babysyasya. Happy birthday baby. Hari ni merupakan hari yang sangat special sebab 22 tahun lepas dunia dapat someone yang sangat kuat, sangat baik, dan sangat penuh dengan kasih sayang.
 
-Saya, Muhammad Saiful Iqbal, ingin mengucapkan Selamat Ulang Tahun yang ke-20. Wahai saudari, menjelang dua dekad kehidupan saudari, saya sentiasa mengiringkan doa agar saudari sentiasa berada dalam keadaan sihat hendaknya, dikurniakan jiwa yang tenang, dan setiap satu urusan saudari dipermudahkan dengan penuh keberkatan.
+saya just nak baby tahu, sepanjang saya kenal baby, saya nampak macam mana kuatnya baby hadap semua benda dalam hidup baby. Bukan semua orang mampu jadi macam baby. baby mungkin tak sedar, tapi cara baby survive, cara baby still bangun walaupun penat, walaupun sakit, itu semua buat saya sangat bangga dengan baby.
 
-Lebih bermakna lagi, ulang tahun saudari pada tahun ini jatuh sehari sebelum menjelangnya bulan yang mulia, Ramadan. Maka saya mengambil peluang ini untuk mengucapkan selamat beramal soleh sepanjang bulan Ramadan buat saudari sekeluarga.
+Baby, I know sometimes baby rasa penat sangat jadi kuat. Rasa macam nak rehat, nak ada orang yang betul-betul faham tanpa baby explain panjang-panjang. And it's okay. Hari ni, especially hari lahir baby, saya harap baby bagi diri baby round of applause. You don't have to be strong all the time. Dengan saya, baby always boleh jadi diri baby yang sebenar.
 
-Semoga kehidupan saudari di kehadapannya akan terus dikelilingi oleh insan-insan yang baik budi dan budiman, yang sentiasa mencoretkan senyuman kebahagiaan di wajah saudari.
+baby tahu tak, setiap kali saya tengok baby dengan family baby, saya nampak betapa besarnya kasih sayang diorang dekat baby. Awak adalah kebanggaan diorang. dan saya tahu baby dah buat yang terbaik untuk jadi anak yang mereka harapkan. and I'm really proud of you for that.
 
-Saya juga mengharapkan agar saudari akan terus berkarya dengan cara saudari yang tersendiri. Janganlah sesekali berhenti menyebarkan kebaikan kepada orang ramai, kerana secara tidak langsung saya yakin saudari telah mengubah ramai kehidupan masyarakat di luar sana.
+to be honest, saya bersyukur sangat sebab Allah bagi saya peluang untuk kenal baby, untuk ada dalam hidup baby walaupun mungkin tak sempurna. every moment dengan baby, walaupun kejap, sangat bermakna untuk saya. baby buat hidup saya lain, buat saya rasa nak jadi lebih baik.
 
-Sebelum saya mengakhiri ucapan ini, izinkan saya menyampaikan serangkap pantun untuk saudari:
+for your birthday ni, saya tak mintak banyak. saya cuma doa supaya baby sentiasa diberi ketenangan, kebahagiaan, dan kekuatan untuk terus capai what you wish for. saya harap semua luka lama baby perlahan-lahan sembuh. baby layak untuk rasa tenang, layak untuk rasa disayangi tanpa rasa takut.
 
-Bunga mawar mekar berseri,
-Wangi semerbak di pagi hari;
-Genaplah 20 usia saudari,
-Moga seronoknya kekal abadi.
+and baby, satu benda yang saya nak awak ingat, baby tak pernah kurang. baby tak perlu jadi lebih daripada diri baby untuk layak disayangi. In the right eyes, baby always cukup sempurna.
 
-Selamat Ulang Tahun yang ke-20,
-Zulaikha binti Mohammed Omar.
+Thank you sebab teruskan jadi orang baik. Thank you sebab bagi saya ruang dalam hidup baby. Thank you sebab jadi diri sendiri.
 
-Ikhlas dari hati,
-IqbalHappy`;
+Happy birthday again, baby ❤️
+Saya sayang awak sangat sangat tau baby .`;
 
   const msgContainer = document.getElementById("message");
   let i = 0;

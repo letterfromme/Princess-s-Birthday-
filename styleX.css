@@ -38,7 +38,7 @@ body {
     margin: 0;
     padding: 0;
     min-height: 100vh;
-    background: url('background.jpg') no-repeat center center/cover;
+    background: url('background.jpeg') no-repeat center center/cover;
     background-attachment: fixed;
     font-family: 'Poppins', system-ui, -apple-system, Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
     overflow-y: auto;

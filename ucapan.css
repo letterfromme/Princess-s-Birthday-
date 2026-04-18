@@ -5,7 +5,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  background: url('background.jpg') no-repeat center center/cover;
+  background: url('background.jpeg') no-repeat center center/cover;
   font-family: 'Poppins', system-ui, -apple-system, Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
   overflow-y: auto;
   position: relative;
